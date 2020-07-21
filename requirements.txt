@@ -1,0 +1,15 @@
+certifi==2020.4.5.2
+chardet==3.0.4
+configparse==0.1.5
+configparser==5.0.0
+ddt==1.4.1
+et-xmlfile==1.0.1
+html-testRunner==1.2.1
+idna==2.9
+jdcal==1.4.1
+Jinja2==2.11.2
+MarkupSafe==1.1.1
+openpyxl==3.0.4
+PyMySQL==0.9.3
+requests==2.24.0
+urllib3==1.25.9
