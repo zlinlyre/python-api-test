@@ -10,6 +10,9 @@
 
 #@Desc: 收集测试用例-放到测试套件中-在run中执行
 
+import sys
+sys.path.append('./') # progject根路径
+print(sys.path)
 import unittest
 from API_20200720.testcases import test_login
 from API_20200720.common import HTMLTestRunnerNew
