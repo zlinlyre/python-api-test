@@ -7,7 +7,7 @@ et-xmlfile==1.0.1
 html-testRunner==1.2.1
 idna==2.9
 jdcal==1.4.1
-Jinja2==2.11.2
+Jinja2==2.11.3
 MarkupSafe==1.1.1
 openpyxl==3.0.4
 PyMySQL==0.9.3
