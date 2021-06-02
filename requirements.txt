@@ -12,4 +12,4 @@ MarkupSafe==1.1.1
 openpyxl==3.0.4
 PyMySQL==0.9.3
 requests==2.24.0
-urllib3==1.25.9
+urllib3==1.26.5
